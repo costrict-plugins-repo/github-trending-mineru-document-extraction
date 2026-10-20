@@ -1,0 +1,12 @@
+{
+  "name": "MinerU Document Extractor",
+  "tagline": "Convert PDF, images, and web pages to Markdown, HTML, LaTeX, or DOCX via MinerU API",
+  "description": "MinerU Document Extractor converts PDFs, scanned images, Word/PowerPoint files, and web pages into structured formats using the MinerU API. Supports token-free flash extraction for quick start, precision extraction with table/formula/OCR recognition, web crawling, and batch processing.",
+  "category": "productivity",
+  "tags": ["mineru", "pdf", "ocr", "markdown", "document", "extraction", "claude-code"],
+  "version": "1.0.0",
+  "license": "MIT",
+  "pricing": "free",
+  "support_url": "https://github.com/decrystal/mineru-claude-plugin/issues",
+  "homepage": "https://github.com/decrystal/mineru-claude-plugin"
+}

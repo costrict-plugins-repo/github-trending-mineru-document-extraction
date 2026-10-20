@@ -1,0 +1,17 @@
+{
+  "name": "mineru-document-extractor",
+  "emoji": "📄",
+  "description": "Convert PDF, image, and web pages to structured formats (Markdown, HTML, LaTeX, or DOCX) using the MinerU API.",
+  "requires": {
+    "bins": ["mineru-open-api"]
+  },
+  "install": [
+    {
+      "id": "npm",
+      "kind": "node",
+      "package": "mineru-open-api",
+      "bins": ["mineru-open-api"],
+      "label": "Install via cli"
+    }
+  ]
+}

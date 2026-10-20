@@ -1,0 +1,12 @@
+{
+  "name": "mineru-document-extractor",
+  "version": "1.0.0",
+  "description": "MinerU Document Extractor: Convert PDF, image, and web pages to structured formats (Markdown, HTML, LaTeX, or DOCX) using the MinerU API.",
+  "author": {
+    "name": "decrystal",
+    "url": "https://github.com/decrystal"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/decrystal/mineru-claude-plugin",
+  "homepage": "https://github.com/decrystal/mineru-claude-plugin"
+}
